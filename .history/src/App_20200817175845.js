@@ -1,14 +1,10 @@
 import React from 'react';
 
-const GITHUB_TOKEN = process.env.REACT_APP_GITHUB_TOKEN
-
-console.log({GITHUB_TOKEN})
-
 function App() {
   return (
     <div>
       <p>
-        hi
+        Edit <code>src/App.js</code> and save to reload.
       </p>
     </div>
   );
