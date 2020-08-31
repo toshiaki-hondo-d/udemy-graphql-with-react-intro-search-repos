@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import { ApolloProvider, Query } from 'react-apollo'
 
 import client from './client'
-import {ME} from './graphql'
 
 
 
